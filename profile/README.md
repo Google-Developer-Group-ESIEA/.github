@@ -1,4 +1,4 @@
-<h1 align="center">GDG on Campus ESIEA</h1>
+<h1 align="center">GDG on Campus ESIEA (Candidate)</h1>
 
 <p align="center">
   <strong>English</strong> •
@@ -6,14 +6,13 @@
 </p>
 
 <p align="center">
-  <strong>The Google club, on campus.</strong><br>
+  <strong>The developer community club, on campus.</strong><br>
   A student club applying to join the worldwide <a href="https://developers.google.com/community/gdg">Google Developer Groups</a> network.
 </p>
 
 <p align="center">
-  <img alt="Google" src="https://img.shields.io/badge/Google-Developer%20Groups-4285F4?style=flat-square&logo=google&logoColor=white">
-  <img alt="On Campus" src="https://img.shields.io/badge/On%20Campus-ESIEA-34A853?style=flat-square">
-  <img alt="Status" src="https://img.shields.io/badge/status-candidate-FBBC04?style=flat-square">
+  <img alt="On Campus" src="https://img.shields.io/badge/On%20Campus-ESIEA-555?style=flat-square">
+  <img alt="Status" src="https://img.shields.io/badge/status-candidate-888?style=flat-square">
 </p>
 
 <p align="center">
@@ -25,19 +24,19 @@
 
 ## `// what is a GDG?`
 
-**GDG on Campus ESIEA** is a student club backed by **Google for Developers**. We learn, build, and connect around Google Cloud, AI & Gemini, and web/mobile development, all on **real projects**.
+**GDG on Campus ESIEA** is a student club applying to join the **Google Developer Groups** program. We learn, build, and connect around cloud, AI, and web/mobile development, all on **real projects**.
 
-| Official program | Global network | No level required |
+| Candidate program | Global network | No level required |
 |---|---|---|
-| Backed by Google for Developers. | GDG campuses all around the world. | Dev or not, just the urge to build. |
+| Applying to Google Developer Groups. | GDG campuses all around the world. | Dev or not, just the urge to build. |
 
 ---
 
 ## `// why join`
 
-- **The Google badge:** an official program on your résumé and access to Google Cloud certifications.
-- **Cloud & AI, hands-on:** Google Cloud, AI & Gemini, web and mobile dev workshops, all on real projects.
-- **The right network:** Googlers, alumni mentors, founders, and the other GDG campuses.
+- **A recognised program:** a community program on your résumé and access to cloud certifications.
+- **Cloud & AI, hands-on:** cloud, AI, web and mobile dev workshops, all on real projects.
+- **The right network:** alumni mentors, founders, and the other GDG campuses.
 - **A career boost:** in-demand skills to land internships & apprenticeships.
 
 ---
